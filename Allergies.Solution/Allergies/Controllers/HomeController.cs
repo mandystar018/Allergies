@@ -1,0 +1,6 @@
+
+
+namespace Allergies.Controller
+{
+
+}
