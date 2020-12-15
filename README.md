@@ -1,18 +1,18 @@
-# <span style="color:#0ec2b8">_App name_</span>
+# <span style="color:#0ec2b8">_Allergies_</span>
 
-#### _ Brief description of application, date_
+#### _December 14, 2020._
 
 #### By _**Amanda Otero**_
 
 ## <span style="color:#0ec2b8">Description</span>
 
-_This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have._
+_This should give you the points base on your allergies._
 
 ## <span style="color:#0ec2b8">Setup/Installation Requirements</span>
 ### <span style="color:#c4f4ef">Open Locally</span>
 1. _Navigate to my GitHub mandystar018 to view the project files and commits.
 2. _Click on the green button labeled "Code"_ to copy repository URL.
-3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/mandystar018/Template".
+3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/mandystar018/Allergies".
 4. _To use this application you will need to install .NET. Please, see instructions below._
 
 ## <span style="color:#0ec2b8">.NET Installation</span> 
